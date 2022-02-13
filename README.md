@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Holms2009
-- 👀 I’m interested in front-end development. I just started learning HTML, CSS, JavaScript etc., but i'm looking forward to becoming a good developer.
-- 🌱 I’m currently learning JavaScript. Just started. Also practicing in useing HTML/CSS.
+- 👀 I’m a junior front-end developer. My stack is React, Redux, TypeScript, SCSS. Sometimes use Vue.js
 - 📫 My contact email is: <b>Holms200990@gmail.com</b>
 
 <!---
