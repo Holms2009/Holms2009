@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Holms2009
-- 👀 I’m a junior front-end developer. My stack is React, Redux, TypeScript, SCSS. Sometimes use Vue.js
+- 👀 I’m a front-end developer. My stack is React, Redux, TypeScript, SCSS.
 - 📫 My contact email is: <b>Holms200990@gmail.com</b>
 
 <!---
